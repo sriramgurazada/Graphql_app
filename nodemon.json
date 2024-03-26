@@ -1,0 +1,9 @@
+{
+
+    "env":{
+        "MONGO_USER": "gurazada",
+        "MONGO_PASSWORD": "gurazada",
+        "MONGO_DB":"events_react_dev"
+    }
+
+}
